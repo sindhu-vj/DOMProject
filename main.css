@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(216, 213, 213);
+}
+hr {
+    height:1px; 
+    width:40px; 
+    margin: 0 0 10px 40px;
+    background-color: black;
+}
+h1 {
+    font-size: 30px;
+    margin-left: 40px;
+}
+button {
+    background-color: rgb(216, 213, 213);
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 40px;
+    border-radius: 3px;
+}
+
+#ProductList {
+    width: 50%;
+    margin-left: 40px;
+}
+
+tr {
+    height: 30px;
+    background-color: White;
+    padding: 20px 5px 0 10px;
+    border-radius: 4px;
+
+}
+td {
+    width: 400px;
+    padding: 5px 0px 5px 20px;
+}
+
+.toggleDarkMode {
+    background-color: rgb(35, 35, 35);
+}
+.h1DarkMode {
+    color: white;
+}
+.hrDarkMode {
+    background-color: white;
+}
+.ProductListDarkMode {
+    color: white; 
+}
+.trDarkMode {
+    background-color: rgb(72, 70, 70);
+}
+.buttonDarkMode {
+    background-color: rgb(48, 46, 46); 
+    color: white;
+}
